@@ -1,0 +1,10 @@
+Escuela: Amiguitos del dulce guayaba
+
+Alumnos:
+	- Eva
+	- Adán
+	- José
+	- Paquirin
+
+	
+	
