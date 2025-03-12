@@ -1,5 +1,4 @@
-Escuela: Virgen del Rocío
-Ubicación: Valladolid
+Escuela: Virgen del Rocíicación: Valladolid
 
 Escuela: Amiguitos del dulce REFRESCO
 Ubicación: Alicante
@@ -10,5 +9,5 @@ Otra escuela pepe
 
 Escuela Mágica de niños
 
-Cambio 5
-
+Cambio 4
+Pasteles
