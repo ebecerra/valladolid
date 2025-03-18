@@ -5,8 +5,6 @@ Alumnos:
 	- Adán
 	- José
 	- Paquirin
-damarys
-	
-Eva
-Dama
-Abe	
+	- Damarys
+	- Dama
+	- Abe	
