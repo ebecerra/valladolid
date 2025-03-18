@@ -5,7 +5,9 @@ Alumnos:
 	- Adán
 	- José
 	- Paquirin
-	- damarys
+	- Damarys
+	- Dama
+	- Abe
 	
 5to de Primaria
 	- Juan
