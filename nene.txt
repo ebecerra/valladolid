@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 este es mi documento probando rama
-=======
 este es mi documento probando rama, pero laura te quiere
->>>>>>> e595e4e8d1a795fd06688829498ff37eb705d7ae
